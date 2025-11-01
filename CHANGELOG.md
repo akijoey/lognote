@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/akijoey/lognote/compare/v1.0.6...v1.1.0) (2025-11-01)
+
+
+### Bug Fixes
+
+* lock file maintain ([b23538f](https://github.com/akijoey/lognote/commit/b23538f1d3a5bf11a9e78dd917707ba2db980af2))
+
+
+### Features
+
+* add debug level ([dbc2d4a](https://github.com/akijoey/lognote/commit/dbc2d4a2d8ff78fb98ae458afc0ba0e02784109c))
+
 ## [1.0.6](https://github.com/akijoey/lognote/compare/v1.0.5...v1.0.6) (2023-02-10)
 
 
